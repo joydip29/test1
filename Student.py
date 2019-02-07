@@ -10,7 +10,7 @@ class Student:
 		if student_roll >= len(self.stu_name):
 			return 'No student is there with that name'
 		else:
-			return self.stu_name[student_roll
+			return self.stu_name[student_roll]
 
 
 if __name__ == '__main__':
